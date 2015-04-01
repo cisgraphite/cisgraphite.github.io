@@ -1,0 +1,11 @@
+html {
+    background-size: 640px 360px;
+    background: url('resources/maintainence.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    -o-background-size: contain;
+    background-size: contain;
+}
